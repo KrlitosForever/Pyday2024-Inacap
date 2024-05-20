@@ -3,9 +3,10 @@
 ## Instrucción de instalación
 
 1. Descargar el repositorio completo en [**.zip**](https://github.com/KrlitosForever/Pyday2024-Inacap/archive/refs/heads/main.zip)
-2. Abrir la terminal y ubicarse en el interior de `Template-Diapositivas`
-3. Ejecutar el comando `npm install`
-4. Levantar servicio `npm run dev`
+2. Instalar slidev de manera global `npm i -g @slidev/cli`
+3. Abrir la terminal y ubicarse en el interior de `Template-Diapositivas`
+4. Ejecutar el comando `npm install`
+5. Levantar servicio `npm run dev`
 
 ## Edición de diapositivas
 
