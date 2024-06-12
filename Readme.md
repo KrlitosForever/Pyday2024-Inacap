@@ -7,7 +7,7 @@
 Las diapositivas que se vieron en la conferencia de hoy se encuentran en la carpeta [Diapositivas](Diapositivas). En esta carpeta, encontrarás todo el material que se compartió durante las charlas.
 
 
-1. [Métodos de aprendizaje para entrar a Python](Diapositivas/Metodos_de_aprendizaje_para_entrar_a_Python.pptx)
+1. [Métodos de aprendizaje para entrar a Python](Diapositivas/Métodos_de_aprendizaje_para_entrar_a_Python.pptx)
 2. [Python como primer lenguaje de programación](Diapositivas/Python_como_primer_lenguaje_de_programacion.pptx)
 3. [Mis errores programando](Diapositivas/Mis_errores_programando.pptx)
 4. [Cómo Python cambió mi perspectiva de la carrera](Diapositivas/Como_python_cambio_mi_perspectiva_de_la_carrera.pptx)
