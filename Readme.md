@@ -7,22 +7,22 @@
 Las diapositivas que se vieron en la conferencia de hoy se encuentran en la carpeta [Diapositivas](Diapositivas). En esta carpeta, encontrarás todo el material que se compartió durante las charlas.
 
 
-1. [Métodos de aprendizaje para entrar a Python](Diapositivas/Métodos_de_aprendizaje_para_entrar_a_Python.pptx)
+1. [Métodos de aprendizaje para entrar a Python](Diapositivas/Métodos_de_aprendizaje_para_entrar_a_Python.pdf)
 2. [Python como primer lenguaje de programación](Diapositivas/Python_como_primer_lenguaje_de_programación.pdf)
-3. [Mis errores programando](Diapositivas/Mis_errores_programando.pptx)
-4. [Cómo Python cambió mi perspectiva de la carrera](Diapositivas/Como_python_cambio_mi_perspectiva_de_la_carrera.pptx)
-5. [Jugando con Python](Diapositivas/Jugando_con_python.pptx)
-6. [Aproximaciones al uso ético de ChatGPT](Diapositivas/Aproximaciones_al_uso_etico_de_ChatGPT.pptx)
-7. [Mi experiencia aprendiendo Python](Diapositivas/Mi_experiencia_aprendiendo_python.pptx)
-8. [La lógica en programación](Diapositivas/La_logica_en_programacion.pptx)
-9. [Optimizando el desarrollo de software con Python y metodologías ágiles](Diapositivas/Optimizando_el_desarrollo_de_software_con_Python_y_metodologias_agiles.ppsx)
-10. [Creación de ambientes digitales de aprendizaje](Diapositivas/Creacion_de_ambientes_digitales_de_aprendizaje.pptx)
-11. [Ciencia de datos y Python](Diapositivas/Ciencia_de_datos_y_python.pptx)
-12. [Victor Valenzuela](Diapositivas/Victor_Valenzuela.pptx)
-13. [SQL Injections - Lidia Moreno](Diapositivas/SQL_injections_Lidia_Moreno.pptx)
-14. [Redes Convolucionales y Python](Diapositivas/Redes_Convolucionales_y_Python.pptx)
-15. [Python aplicado a IA generativa usando Google Vertex IA](Diapositivas/Python_aplicado_a_IA_generativa_usando_Google_Vertex_IA.pptx)
-16. [Workshop Videojuegos](Diapositivas/Workshop_Videojuegos.pptx)
+3. [Mis errores programando](Diapositivas/Mis_errores_programando.pdf)
+4. [Cómo Python cambió mi perspectiva de la carrera](Diapositivas/Como_python_cambio_mi_perspectiva_de_la_carrera.pdf)
+5. [Jugando con Python](Diapositivas/Jugando_con_python.pdf)
+6. [Aproximaciones al uso ético de ChatGPT](Diapositivas/Aproximaciones_al_uso_ético_de_chat_gpt.pdf)
+7. [Mi experiencia aprendiendo Python](Diapositivas/Mi_experiencia_aprendiendo_python.pdf)
+8. [La lógica en programación](Diapositivas/La_lógica_en_programación.pdf)
+9. [Optimizando el desarrollo de software con Python y metodologías ágiles](Diapositivas/Optimizando_el_desarrollo_de_software_con_Python_y_metodologías_ágiles.pdf)
+10. [Creación de ambientes digitales de aprendizaje](Diapositivas/Creación_de_ambientes_digitales_de_aprendizaje.pdf)
+11. [Ciencia de datos y Python](Diapositivas/Ciencia_de_datos_y_python.pdf)
+12. [SQL Injections](Diapositivas/SQL_injections.pdf)
+13. [Redes Convolucionales y Python](Diapositivas/Redes_convolucionales_y_python.pdf)
+14. [Python aplicado a IA generativa usando Google Vertex IA](Diapositivas/Python_aplicado_a_IA_generativa_usando_google_vertex_IA.pdf)
+15. [Representación del conocimiento en inteligencia artificial](Diapositivas/Representación_del_conocimiento_en_inteligencia_artificial.pdf)
+16. [Workshop Videojuegos](Diapositivas/Workshop_Videojuegos.pdf)
 
 ## 🎯 Objetivo
 
